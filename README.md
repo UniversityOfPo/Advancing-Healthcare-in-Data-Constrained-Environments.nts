@@ -2,4 +2,4 @@ Deep learning (DL) models face significant challenges in medical diagnostics due
 
 The U.S. healthcare industry will benefit greatly from this research as it provides a robust method for accurate diagnosis in limited data, such as rare diseases. By improving diagnostic accuracy, CAT-U-Net can lead to earlier and more precise detection of medical conditions, improving patient outcomes. Moreover, avoiding synthetic data generation mitigates ethical and privacy concerns, aligns with stringent healthcare data regulations, and enhances trust in AI-driven diagnostics. This innovation supports healthcare providers by ensuring reliable diagnostic tools are available even in data-constrained environments, ultimately contributing to more effective and timely patient care.
 
-Note: 
+Note: This material is based on work supported by the National Science Foundation Award Numbers 2205773 and 2219658.
